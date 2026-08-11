@@ -1,10 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=3000&pause=5000&color=00F7FF&center=true&vCenter=true&width=700&lines=Laxmi Priya+Nayak✨" />
-</h1>
-<!-- Premium Animated Name -->
+
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=2500&pause=5000&color=00F7FF&center=true&vCenter=true&width=750&lines=Laxmipriya+Nayak+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=2500&pause=5000&color=00F7FF&center=true&vCenter=true&width=750&lines=Laxmi+Priya+Nayak+✨" />
 </h1>
 
 
@@ -85,19 +82,22 @@
 | 🧩 DSA | Problem Solving & LeetCode |
 
 </div>
-## 🛠️ Tools & Technologies
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=My%20Tech%20Stack%20⚡&fontSize=35&fontColor=ffffff"/>
 </p>
 
 
-### 💻 Development Environment
+<h3>💻 Development Environment</h3>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,anaconda" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,vscode,github,git,anaconda,jupyter"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" />
 </p>
 
 
@@ -105,13 +105,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </p>
 
@@ -135,18 +137,10 @@
 </p>
 
 
-### 🗄️ Database & Cloud Tools
+### 🗄️ Database
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgresql"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spyder%20IDE-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 ---
 
@@ -238,20 +232,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayesha2212&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha2212&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=Ayesha2212&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ayesha2212&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha2212&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 
 ---
 
